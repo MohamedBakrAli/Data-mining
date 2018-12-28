@@ -6,7 +6,7 @@ This repository will explain a set of data mining labs to make you familiar with
 - Preprocessing.
 - Classification Problems on different datasets using several supervised algorithms.</br>
 
-You can see the problem statements for each lab from [here](https://github.com/MohamedBakrAli/data_mining/tree/master/problems%20Statement)
+You can see the problem statements for each lab from [here](https://github.com/MohamedBakrAli/Data-mining/tree/master/problem%20Statement)
 
 ## Authors
 
